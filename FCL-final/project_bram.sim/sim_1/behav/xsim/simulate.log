@@ -1,0 +1,50 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module bram_tb.uut.l2.inst.native_mem_module.blk_mem_gen_v8_4_4_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+blk_mem_gen_v8_4_4 collision detected at time: 1000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 3000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 5000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 7000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 9000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 11000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 13000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 15000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 17000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 19000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 21000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 23000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 25000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 27000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 29000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 31000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 33000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 35000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 37000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 39000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 41000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 43000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 45000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 47000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 49000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 51000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 53000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 55000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 57000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 59000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 61000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 63000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 65000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 67000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 69000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 71000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 73000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 75000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 77000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 79000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+blk_mem_gen_v8_4_4 collision detected at time: 81000, Instance: bram_tb.uut.l1.inst.native_mem_module.blk_mem_gen_v8_4_4_inst, A write address: 0, B read address: 0
+$finish called at time : 4708 ns : File "C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sim_1/new/bram_tb.v" Line 757

@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_bram.srcs/sources_1/ip/bram_2/sim/bram_2.v" \
+"../../../../project_bram.srcs/sources_1/ip/bram_1/sim/bram_1.v" \
+"../../../../project_bram.srcs/sources_1/new/bram_.v" \
+"../../../../project_bram.srcs/sim_1/new/bram_tb.v" \
+"../../../../project_bram.srcs/sources_1/new/receiver.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

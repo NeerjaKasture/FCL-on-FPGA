@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.sim/sim_1/behav/xsim/glbl.v,1713466955,verilog,,,,glbl,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sim_1/new/bram_tb.v,1713474458,verilog,,,,bram_tb,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/ip/bram_1/sim/bram_1.v,1713466958,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/bram_.v,,bram_1,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/ip/bram_2/sim/bram_2.v,1713466958,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/ip/bram_1/sim/bram_1.v,,bram_2,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/bram_.v,1713474528,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/receiver.v,,RELU;bram_,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/receiver.v,1713467485,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/sasta_softmax.v,,receiver,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sources_1/new/sasta_softmax.v,1713474649,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/project_bram/project_bram/project_bram.srcs/sim_1/new/bram_tb.v,,OUTPUT_PASS,,,,,,,,
